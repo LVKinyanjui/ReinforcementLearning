@@ -22,7 +22,6 @@ ipython_config.py
 # Datasets
 *.csv
 *.json
-*.txt
 *.data
 *.pkl
 *.npy
